@@ -27,7 +27,6 @@ permalink: /javascriptTicket
 </table>
 <br><br>
 <canvas id="canvas" width="1500" height="800" style="border:1px solid #000000;"></canvas>
-
 <script>
     function partition(arr, l, m, r){
         var n1 = m - l + 1;
